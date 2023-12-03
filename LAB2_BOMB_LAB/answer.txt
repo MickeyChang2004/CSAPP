@@ -1,0 +1,7 @@
+Why make trillions when we could make... billions?
+0 1 1 2 3 5
+0 U 114 1 Q 300 2 g 298 3 l 677 4 w 478 5 v 899 6 j 750 7 F 530
+10 5 DrEvil
+PBHEME
+3 5 4 6 1 2
+107
